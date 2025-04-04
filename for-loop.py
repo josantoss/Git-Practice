@@ -1,3 +1,5 @@
 print("This the 3rd commit")
-for i in range 10:
-  print (2*i)
+x = 10;
+while (x >= 1):
+  print(x);
+  x ++;
